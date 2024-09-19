@@ -1,0 +1,2 @@
+LordPuff,100,50
+pufantudo,120,40
